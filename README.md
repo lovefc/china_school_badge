@@ -8,9 +8,9 @@
 
 官网：[http://xiaohui.lovefc.cn](http://xiaohui.lovefc.cn)
 
-[GITEE下载](https://gitee.com/lovefc/china_school_badge) 
+GITEE：[https://gitee.com/lovefc/china_school_badge](https://gitee.com/lovefc/china_school_badge) 
 
-[GITHUB下载](https://github.com/lovefc/china_school_badge) 
+GITHUB：[https://github.com/lovefc/china_school_badge](https://github.com/lovefc/china_school_badge) 
 
 ## 介绍：
 
@@ -26,7 +26,7 @@ demo下载就能跑,如果出现兼容问题可联系我
 
 ## 使用方法：
 
-<i class="fc-icon-xxx"></i>
+`<i class="fc-icon-xxx"></i>`
 
 ## 备注说明
 
