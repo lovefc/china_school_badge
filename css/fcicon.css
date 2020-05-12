@@ -2,11 +2,11 @@
  * 全国高校校徽图标字体库
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
- * time 2020/05/11 14:56
+ * time 2020/05/12 12:14
  */
 @font-face {
   font-family: 'fc-icon';
-  src: url(font/xiaohui.woff2?v=202005101103) format("woff2"),url(font/xiaohui.woff?v=202005101103) format("woff");
+  src: url(font/xiaohui.woff2?v=20200512) format("woff2"),url(font/xiaohui.woff?v=20200512) format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -229,16 +229,16 @@
   content: "\e028";
 }
 /*
-中国人民大学 = ruc
 中国矿业大学 = cumt
+中国人民大学 = ruc
 中国农业大学 = cau
 中国传媒大学 = cuc
 中国政法大学 = cupl
 */
-.fc-icon-ruc:before {
+.fc-icon-cumt:before {
   content: "\e029";
 }
-.fc-icon-cumt:before {
+.fc-icon-ruc:before {
   content: "\e02a";
 }
 .fc-icon-cau:before {
