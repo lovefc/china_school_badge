@@ -2,11 +2,11 @@
  * 全国高校校徽图标字体库
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
- * time 2020/05/13 16:14
+ * time 2020/05/19 00:22
  */
 @font-face {
 	font-family: 'fc-icon';
-	src: url(font/xiaohui.woff2?v=20200512) format("woff2"), url(font/xiaohui.woff?v=20200512) format("woff");
+	src: url(font/xiaohui.woff2?v=20200519) format("woff2"), url(font/xiaohui.woff?v=20200519) format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -1201,3 +1201,114 @@
 .fc-icon-nufe:before {
 	content: "\e0d3";
 }
+
+/** 20200518 22:24 **/
+
+/*
+焦作大学 = jzu
+山东管理学院 = sdmu
+西安工业大学 = xatu
+安徽医科大学 = ahmu
+浙江万里学院 = zwu
+*/
+.fc-icon-jzu:before {
+	content: "\e0d4";
+}
+
+.fc-icon-sdmu:before {
+	content: "\e0d5";
+}
+
+.fc-icon-xatu:before {
+	content: "\e0d6";
+}
+
+.fc-icon-ahmu:before {
+	content: "\e0d7";
+}
+
+.fc-icon-zwu:before {
+	content: "\e0d8";
+}
+
+/*
+河南科技学院 = hist
+沈阳农业大学 = syau
+中国海洋大学 = ouc
+中国社会科学院大学 = ucass
+南开大学 = nankai
+*/
+.fc-icon-hist:before {
+	content: "\e0d9";
+}
+
+.fc-icon-syau:before {
+	content: "\e0da";
+}
+
+.fc-icon-ouc:before {
+	content: "\e0db";
+}
+
+.fc-icon-ucass:before {
+	content: "\e0dc";
+}
+
+.fc-icon-nankai:before {
+	content: "\e0dd";
+}
+
+/*
+国防科技大学 = nudt
+中南大学 = csu
+华中科技大学 = hust
+华南理工大学 = scut
+桂林电子科技大学 = gliet
+*/
+.fc-icon-nudt:before {
+	content: "\e0de";
+}
+
+.fc-icon-csu:before {
+	content: "\e0df";
+}
+
+.fc-icon-hust:before {
+	content: "\e0e0";
+}
+
+.fc-icon-scut:before {
+	content: "\e0e1";
+}
+
+.fc-icon-gliet:before {
+	content: "\e0e2";
+}
+
+/*
+西南交通大学 = swjtu
+中华女子学院 = cwu
+渤海大学 = bhu
+安徽农业大学 = ahau
+天津科技大学 = tust
+*/
+.fc-icon-swjtu:before {
+	content: "\e0e3";
+}
+
+.fc-icon-cwu:before {
+	content: "\e0e4";
+}
+
+.fc-icon-bhu:before {
+	content: "\e0e5";
+}
+
+.fc-icon-ahau:before {
+	content: "\e0e6";
+}
+
+.fc-icon-tust:before {
+	content: "\e0e7";
+}
+
