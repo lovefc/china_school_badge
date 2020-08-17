@@ -709,7 +709,7 @@
 长安大学 = chd
 山东师范大学 = sdnu
 江苏师范大学 = xznu
-山东农业大学 = edu
+山东农业大学 = sdau
 */
 .fc-icon-ntu:before {
 	content: "\e079";
@@ -727,7 +727,7 @@
 	content: "\e07c";
 }
 
-.fc-icon-edu:before {
+.fc-icon-sdau:before {
 	content: "\e07d";
 }
 
