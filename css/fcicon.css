@@ -3,10 +3,11 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
+ * uptime 2020/08/19 09:22 
  */
 @font-face {
 	font-family: 'fc-icon';
-	src: url(font/xiaohui.woff2?v=20200519) format("woff2"), url(font/xiaohui.woff?v=20200519) format("woff");
+	src: url(font/xiaohui.woff2?v=20200819) format("woff2"), url(font/xiaohui.woff?v=20200819) format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -1310,5 +1311,45 @@
 
 .fc-icon-tust:before {
 	content: "\e0e7";
+}
+
+/*
+河南城建学院 = hncj
+福建工程学院 = fjut
+德州学院 = dzu
+潍坊医学院 = wfmc
+湖南文理学院 = huas
+*/
+.fc-icon-hncj:before {
+	content: "\e0e8";
+}
+
+.fc-icon-fjut:before {
+	content: "\e0e9";
+}
+
+.fc-icon-dzu:before {
+	content: "\e0ea";
+}
+
+.fc-icon-wfmc:before {
+	content: "\e0eb";
+}
+
+.fc-icon-huas:before {
+	content: "\e0ec";
+}
+
+/*
+洛阳理工学院 = lit
+安徽三联学院 = slu
+*/
+
+.fc-icon-lit:before {
+	content: "\e0ed";
+}
+
+.fc-icon-slu:before {
+	content: "\e0ee";
 }
 
