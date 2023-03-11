@@ -3,11 +3,11 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
- * uptime 2020/08/19 09:22 
+ * uptime 2023/03/11 23:34
  */
 @font-face {
 	font-family: 'fc-icon';
-	src: url(font/xiaohui.woff2?v=20200819) format("woff2"), url(font/xiaohui.woff?v=20200819) format("woff");
+	src: url(font/xiaohui.woff2?v=20230311) format("woff2"), url(font/xiaohui.woff?v=20230311) format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
