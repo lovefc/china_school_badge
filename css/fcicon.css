@@ -3,11 +3,11 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
- * uptime 2023/03/11 23:34
+ * uptime 2023/03/21 13:13
  */
 @font-face {
 	font-family: 'fc-icon';
-	src: url(font/xiaohui.woff2?v=20230311) format("woff2"), url(font/xiaohui.woff?v=20230311) format("woff");
+	src: url(font/xiaohui.woff2?v=20230321) format("woff2"), url(font/xiaohui.woff?v=20230321) format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -1264,7 +1264,7 @@
 中南大学 = csu
 华中科技大学 = hust
 华南理工大学 = scut
-桂林电子科技大学 = gliet
+桂林电子科技大学 = guet
 */
 .fc-icon-nudt:before {
 	content: "\e0de";
@@ -1282,7 +1282,7 @@
 	content: "\e0e1";
 }
 
-.fc-icon-gliet:before {
+.fc-icon-guet:before {
 	content: "\e0e2";
 }
 
@@ -1343,6 +1343,9 @@
 /*
 洛阳理工学院 = lit
 安徽三联学院 = slu
+湖南理工学院 = hnist
+江汉大学 = jhun
+鲁东大学 = ldu
 */
 
 .fc-icon-lit:before {
@@ -1353,3 +1356,60 @@
 	content: "\e0ee";
 }
 
+.fc-icon-hnist:before {
+	content: "\e0ef";
+}
+
+.fc-icon-jhun:before {
+	content: "\e0f0";
+}
+
+.fc-icon-ldu:before {
+	content: "\e0f1";
+}
+
+/*
+西华大学 = xhu
+临沂大学 = lyu
+大理大学 = dali
+大连大学 = dlu
+聊城大学 = lcu
+*/
+.fc-icon-xhu:before {
+	content: "\e0f2";
+}
+.fc-icon-lyu:before {
+	content: "\e0f3";
+}
+.fc-icon-dali:before {
+	content: "\e0f4";
+}
+.fc-icon-dlu:before {
+	content: "\e0f5";
+}
+.fc-icon-lcu:before {
+	content: "\e0f6";
+}
+
+/*
+海军工程大学 = nue
+空军工程大学 = afeu
+延边大学 = ybu
+浙江农林大学 = zafu
+陇东学院= ldxy
+*/
+.fc-icon-nue:before {
+	content: "\e0f7";
+}
+.fc-icon-afeu:before {
+	content: "\e0f8";
+}
+.fc-icon-ybu:before {
+	content: "\e0f9";
+}
+.fc-icon-zafu:before {
+	content: "\e0fa";
+}
+.fc-icon-ldxy:before {
+	content: "\e0fb";
+}
