@@ -3,11 +3,11 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
- * uptime 2023/03/21 13:13
+ * uptime 2023/03/22 21:48
  */
 @font-face {
 	font-family: 'fc-icon';
-	src: url(font/xiaohui.woff2?v=20230321) format("woff2"), url(font/xiaohui.woff?v=20230321) format("woff");
+	src: url(font/xiaohui.woff2?v=20230322) format("woff2"), url(font/xiaohui.woff?v=20230322) format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -1412,4 +1412,56 @@
 }
 .fc-icon-ldxy:before {
 	content: "\e0fb";
+}
+/*
+成都中医药大学 = cdutcm 
+
+中央音乐学院 = ccom
+
+中国音乐学院 = ccmusic
+
+上海戏剧学院 = sta
+
+南京艺术学院 = nua
+*/
+.fc-icon-cdutcm:before {
+	content: "\e0fc";
+}
+.fc-icon-ccom:before {
+	content: "\e0fd";
+}
+.fc-icon-ccmusic:before {
+	content: "\e0fe";
+}
+.fc-icon-sta:before {
+	content: "\e0ff";
+}
+.fc-icon-nua:before {
+	content: "\e100";
+}
+/*
+北京舞蹈学院 = bda
+
+安徽艺术学院 = ahua
+
+武汉传媒学院 = whmc
+
+浙江音乐学院 = zjcm
+
+上海音乐学院 = shcmusic
+*/
+.fc-icon-bda:before {
+	content: "\e101";
+}
+.fc-icon-ahua:before {
+	content: "\e102";
+}
+.fc-icon-whmc:before {
+	content: "\e103";
+}
+.fc-icon-zjcm:before {
+	content: "\e104";
+}
+.fc-icon-shcmusic:before {
+	content: "\e105";
 }
