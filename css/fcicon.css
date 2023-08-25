@@ -901,7 +901,7 @@
 北京外国语大学 = bfsu
 四川师范大学 = sicnu
 河北工业大学 = hebut
-天津工业大学 = tjpu
+天津工业大学 = tgu
 */
 .fc-icon-shutcm:before {
 	content: "\e09c";
@@ -919,7 +919,7 @@
 	content: "\e09f";
 }
 
-.fc-icon-tjpu:before {
+.fc-icon-tgu:before {
 	content: "\e0a0";
 }
 
