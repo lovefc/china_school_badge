@@ -3,7 +3,7 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
- * uptime 2023/08/22 11:10
+ * uptime 2023/10/05 11:38
  */
 @font-face {
 	font-family: 'fc-icon';
@@ -1465,7 +1465,6 @@
 .fc-icon-shcmusic:before {
 	content: "\e105";
 }
-
 /*
 上海科技大学 = shanghaitech
 湖北经济学院 = hbue
@@ -1488,7 +1487,6 @@
 .fc-icon-lzjtu:before {
 	content: "\e10a";
 }
-
 /*
 南方科技大学 = sustech
 五邑大学 = wyu
@@ -1502,4 +1500,52 @@
 }
 .fc-icon-nbt:before {
 	content: "\e10d";
+}
+/*
+重庆文理学院 = cqwu
+广东海洋大学 = gdou
+成都信息工程大学 = cuit
+天津职业技术师范大学 = tute
+西华师范大学 = cwnu
+*/
+.fc-icon-cqwu:before {
+	content: "\e10e";
+}
+.fc-icon-gdou:before {
+	content: "\e10f";
+}
+.fc-icon-cuit:before {
+	content: "\e110";
+}
+.fc-icon-tute:before {
+	content: "\e111";
+}
+.fc-icon-cwnu:before {
+	content: "\e112";
+}
+/*
+澳门大学 = um
+澳门理工大学 = mpu
+香港大学 = hku
+香港理工大学 = polyu
+香港中文大学 = cuhk
+台湾大学 = ntutw
+*/
+.fc-icon-um:before {
+	content: "\e113";
+}
+.fc-icon-mpu:before {
+	content: "\e114";
+}
+.fc-icon-hku:before {
+	content: "\e115";
+}
+.fc-icon-polyu:before {
+	content: "\e116";
+}
+.fc-icon-cuhk:before {
+	content: "\e117";
+}
+.fc-icon-ntutw:before {
+	content: "\e118";
 }
