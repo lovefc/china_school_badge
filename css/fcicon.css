@@ -3,7 +3,7 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
- * uptime 2023/12/01 16:41
+ * uptime 2024/03/18 13:48
  */
 @font-face {
 	font-family: 'fc-icon';
@@ -1594,3 +1594,48 @@
 	content: "\e122";
 }
 
+/*
+集美大学 = jmu
+青岛理工大学 = qut
+西安培华学院 = peihua
+上海对外经贸大学 = suibe
+沈阳师范大学 = synu
+*/
+.fc-icon-jmu:before {
+	content: "\e123";
+}
+.fc-icon-qut:before {
+	content: "\e124";
+}
+.fc-icon-peihua:before {
+	content: "\e125";
+}
+.fc-icon-suibe:before {
+	content: "\e126";
+}
+.fc-icon-synu:before {
+	content: "\e127";
+}
+
+/*
+山东第二医科大学 = wfmc
+玉溪师范学院 = yxnu
+南阳理工学院 = nyist
+闽南科技学院 = mku
+烟台理工学院 = yitsd
+*/
+.fc-icon-wfmc:before {
+	content: "\e128";
+}
+.fc-icon-yxnu:before {
+	content: "\e129";
+}
+.fc-icon-nyist:before {
+	content: "\e12a";
+}
+.fc-icon-mku:before {
+	content: "\e12b";
+}
+.fc-icon-yitsd:before {
+	content: "\e12c";
+}
