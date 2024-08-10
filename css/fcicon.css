@@ -3,7 +3,7 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
- * uptime 2024/03/18 13:48
+ * uptime 2024/08/10 12:55
  */
 @font-face {
 	font-family: 'fc-icon';
@@ -23,6 +23,7 @@
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility;
 }
 
 /** 字体大小 **/
@@ -763,7 +764,7 @@
 杭州师范大学 = hznu
 安徽师范大学 = ahnu
 杭州电子科技大学 = hdu
-福建农业大学 = fafu
+福建农林大学 = fafu
 江西师范大学 = jxnu
 */
 .fc-icon-hznu:before {
@@ -1638,4 +1639,26 @@
 }
 .fc-icon-yitsd:before {
 	content: "\e12c";
+}
+/*
+杭州医学院 = hmc
+安徽工程大学 = ahpu
+广西科技大学 = gxust
+香港科技大学 = hkust
+海南师范大学 = hainnu
+*/
+.fc-icon-hmc:before {
+	content: "\e12d";
+}
+.fc-icon-ahpu:before {
+	content: "\e12e";
+}
+.fc-icon-gxust:before {
+	content: "\e12f";
+}
+.fc-icon-hkust:before {
+	content: "\e130";
+}
+.fc-icon-hainnu:before {
+	content: "\e131";
 }
