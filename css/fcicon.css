@@ -3,7 +3,7 @@
  * by 封尘 https://lovefc.cn
  * http://xiaohui.lovefc.cn
  * time 2020/05/19 00:22
- * uptime 2024/08/10 12:55
+ * uptime 2025/03/05 01:25
  */
 @font-face {
 	font-family: 'fc-icon';
@@ -1379,15 +1379,19 @@
 .fc-icon-xhu:before {
 	content: "\e0f2";
 }
+
 .fc-icon-lyu:before {
 	content: "\e0f3";
 }
+
 .fc-icon-dali:before {
 	content: "\e0f4";
 }
+
 .fc-icon-dlu:before {
 	content: "\e0f5";
 }
+
 .fc-icon-lcu:before {
 	content: "\e0f6";
 }
@@ -1402,18 +1406,23 @@
 .fc-icon-nue:before {
 	content: "\e0f7";
 }
+
 .fc-icon-afeu:before {
 	content: "\e0f8";
 }
+
 .fc-icon-ybu:before {
 	content: "\e0f9";
 }
+
 .fc-icon-zafu:before {
 	content: "\e0fa";
 }
+
 .fc-icon-ldxy:before {
 	content: "\e0fb";
 }
+
 /*
 成都中医药大学 = cdutcm 
 
@@ -1428,18 +1437,23 @@
 .fc-icon-cdutcm:before {
 	content: "\e0fc";
 }
+
 .fc-icon-ccom:before {
 	content: "\e0fd";
 }
+
 .fc-icon-ccmusic:before {
 	content: "\e0fe";
 }
+
 .fc-icon-sta:before {
 	content: "\e0ff";
 }
+
 .fc-icon-nua:before {
 	content: "\e100";
 }
+
 /*
 北京舞蹈学院 = bda
 
@@ -1454,18 +1468,23 @@
 .fc-icon-bda:before {
 	content: "\e101";
 }
+
 .fc-icon-ahua:before {
 	content: "\e102";
 }
+
 .fc-icon-whmc:before {
 	content: "\e103";
 }
+
 .fc-icon-zjcm:before {
 	content: "\e104";
 }
+
 .fc-icon-shcmusic:before {
 	content: "\e105";
 }
+
 /*
 上海科技大学 = shanghaitech
 湖北经济学院 = hbue
@@ -1476,18 +1495,23 @@
 .fc-icon-shanghaitech:before {
 	content: "\e106";
 }
+
 .fc-icon-hbue:before {
 	content: "\e107";
 }
+
 .fc-icon-ecjtu:before {
 	content: "\e108";
 }
+
 .fc-icon-jxau:before {
 	content: "\e109";
 }
+
 .fc-icon-lzjtu:before {
 	content: "\e10a";
 }
+
 /*
 南方科技大学 = sustech
 五邑大学 = wyu
@@ -1496,12 +1520,15 @@
 .fc-icon-sustech:before {
 	content: "\e10b";
 }
+
 .fc-icon-wyu:before {
 	content: "\e10c";
 }
+
 .fc-icon-nbt:before {
 	content: "\e10d";
 }
+
 /*
 重庆文理学院 = cqwu
 广东海洋大学 = gdou
@@ -1512,18 +1539,23 @@
 .fc-icon-cqwu:before {
 	content: "\e10e";
 }
+
 .fc-icon-gdou:before {
 	content: "\e10f";
 }
+
 .fc-icon-cuit:before {
 	content: "\e110";
 }
+
 .fc-icon-tute:before {
 	content: "\e111";
 }
+
 .fc-icon-cwnu:before {
 	content: "\e112";
 }
+
 /*
 澳门大学 = um
 澳门理工大学 = mpu
@@ -1535,21 +1567,27 @@
 .fc-icon-um:before {
 	content: "\e113";
 }
+
 .fc-icon-mpu:before {
 	content: "\e114";
 }
+
 .fc-icon-hku:before {
 	content: "\e115";
 }
+
 .fc-icon-polyu:before {
 	content: "\e116";
 }
+
 .fc-icon-cuhk:before {
 	content: "\e117";
 }
+
 .fc-icon-ntutw:before {
 	content: "\e118";
 }
+
 /*
 巢湖学院 = chu
 东北林业大学 = nefu
@@ -1560,18 +1598,23 @@
 .fc-icon-chu:before {
 	content: "\e119";
 }
+
 .fc-icon-nefu:before {
 	content: "\e11a";
 }
+
 .fc-icon-hebust:before {
 	content: "\e11b";
 }
+
 .fc-icon-cqut:before {
 	content: "\e11c";
 }
+
 .fc-icon-sdjtu:before {
 	content: "\e11d";
 }
+
 /*
 广东财经大学 = gdufe
 东莞理工学院 = dgut
@@ -1582,15 +1625,19 @@
 .fc-icon-gdufe:before {
 	content: "\e11e";
 }
+
 .fc-icon-dgut:before {
 	content: "\e11f";
 }
+
 .fc-icon-shou:before {
 	content: "\e120";
 }
+
 .fc-icon-tyust:before {
 	content: "\e121";
 }
+
 .fc-icon-ynni:before {
 	content: "\e122";
 }
@@ -1605,15 +1652,19 @@
 .fc-icon-jmu:before {
 	content: "\e123";
 }
+
 .fc-icon-qut:before {
 	content: "\e124";
 }
+
 .fc-icon-peihua:before {
 	content: "\e125";
 }
+
 .fc-icon-suibe:before {
 	content: "\e126";
 }
+
 .fc-icon-synu:before {
 	content: "\e127";
 }
@@ -1628,18 +1679,23 @@
 .fc-icon-wfmc:before {
 	content: "\e128";
 }
+
 .fc-icon-yxnu:before {
 	content: "\e129";
 }
+
 .fc-icon-nyist:before {
 	content: "\e12a";
 }
+
 .fc-icon-mku:before {
 	content: "\e12b";
 }
+
 .fc-icon-yitsd:before {
 	content: "\e12c";
 }
+
 /*
 杭州医学院 = hmc
 安徽工程大学 = ahpu
@@ -1650,15 +1706,53 @@
 .fc-icon-hmc:before {
 	content: "\e12d";
 }
+
 .fc-icon-ahpu:before {
 	content: "\e12e";
 }
+
 .fc-icon-gxust:before {
 	content: "\e12f";
 }
+
 .fc-icon-hkust:before {
 	content: "\e130";
 }
+
 .fc-icon-hainnu:before {
 	content: "\e131";
+}
+
+/*
+中国美术学院 = caa
+浙江中医药大学 = zcmu
+阜阳师范大学 = fynu
+广东环境保护工程职业学院 = gdpepe
+荆楚理工学院 = jcut
+*/
+.fc-icon-caa:before {
+	content: "\e132";
+}
+
+.fc-icon-zcmu:before {
+	content: "\e133";
+}
+
+.fc-icon-fynu:before {
+	content: "\e134";
+}
+
+.fc-icon-gdpepe:before {
+	content: "\e135";
+}
+
+.fc-icon-jcut:before {
+	content: "\e136";
+}
+
+/*
+广东石油化工学院 = gdupt
+*/
+.fc-icon-gdupt:before {
+	content: "\e137";
 }
